@@ -1,73 +1,58 @@
-Why GM Financial?  
+Intern - IT Data Integration
+Arlington, TX, United States
+Trending
 
-GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer lending commercial products to dealers to help them finance and grow their businesses.   
+0%
+Resume Match
+0 of 6 keywords
+Uses advanced AI matching
+Simplify
+Simplify
+V1
+V2
+Job Description
+Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!
 
-At GM Financial, our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.  
+Why GM Financial?
+GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses.
+
+At GM Financial, our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
 
 Our Purpose: We pioneer the innovations that move and connect people to what matters. 
 
-Are you excited about innovation, entrepreneurship, and solving complex business problems? Then we are looking for you!  
+Are you excited about innovation, entrepreneurship and solving complex business problems? Then we are looking for you!
 
-  
 
-Our program offers  
+Our program offers
 
-11 weeks of work experience (May 27th, 2026 - August 7th, 2026)
-
-Executive and peer networking opportunities  
-
-Independent and team project experiences  
-
-Philanthropic activities  
-
-Career development  
-
-Opportunity to apply for full-time career positions   
-
+11 weeks of work experience (May 27, 2026 - August 7, 2026)
+Executive and peer networking opportunities
+Independent and team project experiences
+Philanthropic activities
+Career development
+Opportunity to apply for full-time career positions
  
 
-Our Culture: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.   
-
-Compensation: Competitive pay   
-
-Work Life Balance: Flexible hybrid work environment, 2-days a week in office  
-
- 
-
-As a member of an Agile Scrum team, the Product Owner is responsible for the success of the product by maximizing the output of the development team. 
+Our Culture: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+Compensation: Competitive pay
+Work Life Balance: Flexible hybrid work environment, 2-days a week in office
 
 Responsibilities
-Analyze and communicate customer requirements to provide innovative solutions and recommend system, product and process enhancements
+The Data Integration team is responsible for extracting data from various sources, transforming the data as required, and loading it to various targets (ETL.) This team develops, maintains and supports the Enterprise Data Warehouse system, corresponding data marks and data interfaces between operational systems. Interns will get hands-on learning and will analyze and will provide support for the team by working with documentation to structure processes and data for accuracy, efficiency, and maintainability.
 
-Identifies, evaluates and introduces new approaches/technology to use in product development  
-
-Explore alternative ways to view and solve problems to achieve results beyond what is required  
-
-Leverage innovation tools, creative processes, and diverse cross-functional experts to generate ideas  
-
-Focus on constantly improving processes, products, and services and exploring innovative ways to do the job 
-
-Takes advantage of opportunities to try unique ways of doing things and tests promising ideas to find new solutions  
-
-Asks provocative questions to understand current practices and the customer's experience before moving to problem solving  
-
- Seeks to understand and experience the full array of stakeholders' (eg, internal partners, suppliers, customers) behavior, needs, concerns, and desires to unlock new opportunities for innovation
-
+Contribute to the evaluation, research, experimentation efforts with batch and streaming data engineering technologies in a lab to keep pace with industry innovation
+Work with data engineering related groups to inform on and showcase capabilities of emerging technologies and to enable the adoption of these new technologies and associated techniques
+Contribute to the definition and refinement of processes and procedures for the data engineering practice
+Work closely with data scientists, data architects, ETL developers, other IT counterparts, and business partners to identify, capture, collect, and format data from the external sources, internal systems and the data warehouse to extract features of interest
+Code, test, deploy, monitor, document and troubleshoot data engineering processing and associated automation
+Perform other duties as assigned
+Conform with all company policies and procedures
 Qualifications
-Must be a current student pursuing a bachelor's degree or higher from an accredited college or university in Business Administration, Project Management, Management Information Systems, Computer Science, Information Technology, or other related major with at least one semester remaining upon start of the internship 
-
-Must possess a minimum of a 3.0 (out of a 4-point scale) overall GPA  
-
-Junior or Senior classification preferred
-
-Knowledge of Design Thinking and Lean methodologies (preferred)
-
-Strong written and verbal communication skills required. This incumbent will be required to give presentations and communicate with business leaders  
-
-Strong analytical, quantitative, problem solving, and conceptual skills required  
-
-Must be detail-oriented and able to prioritize tasks to meet deadlines
-
-Must be able to work independently or in a team setting
-
-Previous internships are considered a plus
+Must be a current student pursuing a bachelor's degree or higher from an accredited college or university in Computer Science, Data Science, Data Analytics, Information Systems, Statistics with at least one semester remaining upon start of the internship.
+Must possess a minimum of a 3.0 (out of a 4-point scale) overall GPA.
+Junior or Senior classification preferred.
+Strong written and verbal communication skills required. This incumbent will be required to give presentations and communicate with business leaders.
+Strong analytical, quantitative, problem solving, and conceptual skills required.
+Must be detail oriented and able to prioritize tasks to meet deadlines.
+Must be able to work independently or in a team setting.
+Previous internships are considered a plus. 
