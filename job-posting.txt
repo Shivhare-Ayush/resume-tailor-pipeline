@@ -1,58 +1,155 @@
-Intern - IT Data Integration
-Arlington, TX, United States
-Trending
-
-0%
-Resume Match
-0 of 6 keywords
-Uses advanced AI matching
-Simplify
-Simplify
-V1
-V2
 Job Description
-Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!
+Must be enrolled in a university prior to and post internship.
 
-Why GM Financial?
-GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses.
+Target Internship Duration: May-Aug 2026 or June-Sept 2026
 
-At GM Financial, our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+Location: Varies per team alignment 
 
-Our Purpose: We pioneer the innovations that move and connect people to what matters. 
-
-Are you excited about innovation, entrepreneurship and solving complex business problems? Then we are looking for you!
-
-
-Our program offers
-
-11 weeks of work experience (May 27, 2026 - August 7, 2026)
-Executive and peer networking opportunities
-Independent and team project experiences
-Philanthropic activities
-Career development
-Opportunity to apply for full-time career positions
  
 
-Our Culture: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
-Compensation: Competitive pay
-Work Life Balance: Flexible hybrid work environment, 2-days a week in office
+ 
 
-Responsibilities
-The Data Integration team is responsible for extracting data from various sources, transforming the data as required, and loading it to various targets (ETL.) This team develops, maintains and supports the Enterprise Data Warehouse system, corresponding data marks and data interfaces between operational systems. Interns will get hands-on learning and will analyze and will provide support for the team by working with documentation to structure processes and data for accuracy, efficiency, and maintainability.
+The Program:  
 
-Contribute to the evaluation, research, experimentation efforts with batch and streaming data engineering technologies in a lab to keep pace with industry innovation
-Work with data engineering related groups to inform on and showcase capabilities of emerging technologies and to enable the adoption of these new technologies and associated techniques
-Contribute to the definition and refinement of processes and procedures for the data engineering practice
-Work closely with data scientists, data architects, ETL developers, other IT counterparts, and business partners to identify, capture, collect, and format data from the external sources, internal systems and the data warehouse to extract features of interest
-Code, test, deploy, monitor, document and troubleshoot data engineering processing and associated automation
-Perform other duties as assigned
-Conform with all company policies and procedures
+Our future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring students with a diverse set of skills and experiences to work in and across teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact. 
+
+The Organization:  
+
+Global Industry Unit (GIU) is a dedicated development organization with deep domain expertise, specializing in building and operating industry specific cloud applications. Our organization with over 23,000 employees works on solving the most complex business problems across a wide range of industries, globally.  
+
+Focused R&D investment of $700+ million annually in industry applications  
+
+16M users served across nearly 200,000 cloud customers in over 120 countries 
+
+Leverage Oracle Cloud technology, operations, and global scale 
+
+The Global Business Unit is comprised of numerous industries, including: 
+
+Communication: Providing networks for service providers and enterprises 
+
+Construction & Engineering: Supporting owners & delivery teams that plan, build, and operate critical assets. 
+
+Energy & Water: Providing mission critical support for electric, gas, and water utilities worldwide 
+
+Financial Services: Powering complex core banking, regulatory compliance, and analytics operations 
+
+Hospitality: Redefining guest experience in hospitality establishments around the world 
+
+Life Sciences: Making apps to save and improve lives, and enable inventions at the speed of science. 
+
+Local Government: Empowering agencies to innovate and connect better with citizens. 
+
+Restaurants: Powering successful restaurants around the globe 
+
+Retail: Empowering commerce for 5,750 retailers in 96 countries 
+
+  
+
+What You’ll Do: 
+
+We are seeking best-in-class engineers with the expertise and passion for solving challenging unique problems. You will use your knowledge and creativity to design and build innovative new systems from the ground up. You will be writing code, completing programming projects, and performing testing and debugging of Oracle software. You will have the opportunity to work on cutting-edge technologies to tackle real-world problems in a collaborative, agile environment. 
+
+ 
+
+What You’ll Bring (Objective Minimum Qualifications): 
+
+To be considered for a Software Engineer position in Global Industry Units you must possess the Objective Minimum Qualifications (OMQs) below. Please ensure that your application clearly indicates that you meet these OMQs, either on your resume and/or by uploading additional documents such as a transcript. 
+
+Visa sponsorship is not available for this role. For clarity purposes, this means that Oracle is not in a position now, or in the future, to offer US immigration sponsorship. This includes, but is not limited to, support of H-1B, TN, O-1, green card or F-1 training plans/evaluations.  
+
+Reside in the United States and/or attend a university in the US. 
+Currently enrolled in a Bachelor’s degree program in Computer Science (or an equivalent science/engineering field or AND be returning to the program after completion of the internship.
+Proficient (i.e., able to complete coding projects with no assistance) in at least two of the following programming languages:  
+Java
+
+Python
+
+C#
+
+SQL
+
+JavaScript
+
+CSS
+
+HTML 
+
+Have completed coursework, projects, internships, and or research in at least three of the following:  
+Artificial Intelligence 
+
+Algorithms
+
+Big Data 
+
+Data Structures 
+
+Database 
+
+Machine Learning 
+
+Object-Oriented Programming 
+
+Software Programming 
+
+Web/Mobile Development 
+
+Micro-Services Architecture 
+
+Container Architecture (e.g. Docker, Kubernetes) 
+
+User Interface Design 
+
+Completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience working with the relevant technical areas noted above. 
+ 
+ 
+
+Preferred Qualifications:  
+
+Minimum 3.0 GPA 
+
 Qualifications
-Must be a current student pursuing a bachelor's degree or higher from an accredited college or university in Computer Science, Data Science, Data Analytics, Information Systems, Statistics with at least one semester remaining upon start of the internship.
-Must possess a minimum of a 3.0 (out of a 4-point scale) overall GPA.
-Junior or Senior classification preferred.
-Strong written and verbal communication skills required. This incumbent will be required to give presentations and communicate with business leaders.
-Strong analytical, quantitative, problem solving, and conceptual skills required.
-Must be detail oriented and able to prioritize tasks to meet deadlines.
-Must be able to work independently or in a team setting.
-Previous internships are considered a plus. 
+Disclaimer:
+
+Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.
+
+Range and benefit information provided in this posting are specific to the stated locations only
+
+US: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum. 
+
+Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.
+Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.
+
+Oracle US offers a comprehensive benefits package which includes the following:
+1. Medical, dental, and vision insurance, including expert medical opinion
+2. Short term disability and long term disability
+3. Life insurance and AD&D
+4. Supplemental life insurance (Employee/Spouse/Child)
+5. Health care and dependent care Flexible Spending Accounts
+6. Pre-tax commuter and parking benefits
+7. 401(k) Savings and Investment Plan with company match
+8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.
+9. 11 paid holidays
+10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.
+11. Paid parental leave
+12. Adoption assistance
+13. Employee Stock Purchase Plan
+14. Financial planning and group legal
+15. Voluntary benefits including auto, homeowner and pet insurance
+
+The role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.
+
+Career Level - IC0
+
+
+ 
+
+About Us
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity. 
+
+We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
+
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. 
