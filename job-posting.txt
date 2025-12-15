@@ -1,122 +1,176 @@
-InnoTech Engineering Internship (Undergraduate) - Summer 2026
-Apply
-locations
-CT - Hartford
-IL - Northbrook
-TX - Irving
-AZ - Scottsdale
-RI - Woonsocket
-time type
-Full time
-posted on
-Posted 6 Days Ago
-job requisition id
-R0780249
+Undergrad Software Engineer Intern - Global Industries
+United States
+Trending
+Job Identification
+306144
+Job Category
+All Roles
+Posting Date
+11/24/2025, 01:23 PM
+Role
+Individual Contributor
+Job Type
+Regular Employee
+Does this position require a security clearance?
+No
+Years
+0 to 2+ years
+Additional Info
+N/A
+Applicants are required to read, write, and speak the following languages
+English
+Job Description
+Must be enrolled in a university prior to and post internship.
 
-43%
-Resume Match
-9 of 21 keywords
-Simplify
-Simplify
-V1
-V2
-You’ve invested a lot of time and energy in your education. Now you want the chance to make your mark. We offer challenging opportunities for you to learn and grow professionally. In our programs, you’ll be immersed in a culture of continuous improvement, with the goal of changing health care for the better.
+Target Internship Duration: May-Aug 2026 or June-Sept 2026
 
-Position Summary: 
-Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand- with heart at its center- our purpose sends a personal message that how we deliver our services is just as important as what we deliver. 
-
- 
-As a CVS Health Corporate Intern you will participate in:  
-
- 
-• Projects that contribute to the success of our business  
-• Community service activities  
-• Professional development workshops  
-• Mentorship and networking opportunities  
-• Interaction with senior leaders  
-
-The InnoTech Engineering internship experience is an 11-week full-time opportunity that starts on May 27th, 2026, and concludes on August 7th, 2026.  
-
-This is a hybrid position with 3 days (generally Tuesday, Wednesday, and Thursday) in the following office locations:  
-
-Hartford, CT 
-
-Irving, TX 
-
-Northbrook, IL 
-
-Scottsdale, AZ 
-
-Woonsocket, RI  
-
-The other 2 days each week will be working remotely from home, office, or another location of your choice. 
-
-The hourly rate is $28/hr with 40 hours/week, no work on July 4th (company holiday), and two days of paid leave. Additionally, our corporate interns have an increased likelihood to receive an offer for a future role with CVS Health. 
-
-Relocation:  
-
-CVS Health follows a hybrid work model providing office-based colleagues the ability to flex between working in the office and working from home based on the work you need to accomplish. Relocation assistance will be provided for candidates that need to move over 50 miles.    
-
-Sponsorship: 
-
-Work visa sponsorship is not available for this role. This includes participation in Curricular Practical Training (CPT), Optional Practical Training (OPT), and F-1 Visa programs. 
+Location: Varies per team alignment 
 
  
 
-About this business area: 
+ 
 
-CVS Health’s Ventures, Experience, and Technology organization is seeking emerging talent for the Innovation & Technology Corporate Internship Program. The InnoTech internship accelerates talent and offers an opportunity for passionate, driven people who want to join a high-energy and growing team to make a difference in customers' lives and who want to be on the ground floor of technological innovation that aims to reinvent what a healthcare company can be. Interns can work with the following business areas:
+The Program:  
 
-Aetna Technology empowers Aetna with innovative, secure, and scalable health care solutions enabling business performance, operational excellence, and differentiated health care experiences. We are rationalizing Aetna’s technology environment on modern shared platforms, accelerating profitable growth via core systems enhancements, and harnessing AI to enhance productivity, experience and health outcomes. 
+Our future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring students with a diverse set of skills and experiences to work in and across teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact. 
 
-Pharmacy & Consumer Wellness (PCW) Technology and Digital supports various experiences across Consumer Health & Wellness and Omnichannel Pharmacy. We are committed to an ‘experience-first’ approach to capability design that drives proactive product innovation by improving efficiency, allowing for continuous improvement, and supporting end-to-end delivery.  
+The Organization:  
 
-Pharmacy Services product and engineering teams deliver flexible, integrated solutions for seamless access to medications, while our Client Services team ensures smooth transitions to Caremark technology. We build trust through stable, secure systems, optimizing operations and enhancing member experiences and health outcomes by leveraging advanced digital technologies, automation, and AI. 
+Global Industry Unit (GIU) is a dedicated development organization with deep domain expertise, specializing in building and operating industry specific cloud applications. Our organization with over 23,000 employees works on solving the most complex business problems across a wide range of industries, globally.  
 
-The Enterprise Delivery organization is a dynamic hub of centers of excellence dedicated to transforming initiative delivery and portfolio management. We streamline processes to create efficiencies, minimize rework, and enhance quality, ensuring that we consistently deliver on our commitments—on time and within budget. Our expert delivery management teams align with key business portfolios to provide innovative solutions and unparalleled support, while our cross-functional teams drive Process Excellence, Learning & Development, Agile Project Management Office (PMO), and Integration Services, all backed by cutting-edge technology solutions for HR and Corporate needs. 
+Focused R&D investment of $700+ million annually in industry applications  
 
-Required Qualifications: 
+16M users served across nearly 200,000 cloud customers in over 120 countries 
 
-Meet educational requirements (see education section) 
+Leverage Oracle Cloud technology, operations, and global scale 
 
-Preferred Qualifications: 
+The Global Business Unit is comprised of numerous industries, including: 
 
-• Have demonstrated leadership experience. Examples include: active roles in student or social organization activities, sports, or school or work-related projects 
+Communication: Providing networks for service providers and enterprises 
 
-• Have internship, work, or project experience in the related field of Healthcare Technology 
+Construction & Engineering: Supporting owners & delivery teams that plan, build, and operate critical assets. 
 
-• Show strong written and verbal communication skills 
+Energy & Water: Providing mission critical support for electric, gas, and water utilities worldwide 
 
-• Possess problem solving skills 
+Financial Services: Powering complex core banking, regulatory compliance, and analytics operations 
 
-• Exhibit an analytical and growth mindset 
+Hospitality: Redefining guest experience in hospitality establishments around the world 
 
-• Have project management experience 
+Life Sciences: Making apps to save and improve lives, and enable inventions at the speed of science. 
 
-• Have an interest in obtaining full-time position within CVS Health upon graduation 
+Local Government: Empowering agencies to innovate and connect better with citizens. 
 
-• Have experience with some of the following: Python, Git, Java, JavaScript, C++, Cloud Platforms (AWS, Azure, GCP), CI/CD Pipelines, Kotlin (Android), Swift (iOs), Typescript, ReactJS, NodeJS, SQL 
+Restaurants: Powering successful restaurants around the globe 
 
-Education: 
+Retail: Empowering commerce for 5,750 retailers in 96 countries 
 
-• You should be currently pursuing a Bachelor's Degree 
+  
 
-• Have a graduation date between September 2026 to August 2027 
+What You’ll Do: 
 
-• Have a major, minor or concentration relevant to the position. Examples include: Computer Science, Information Technology, Artificial Intelligence, Data Engineering, Change Management, Information Systems 
+We are seeking best-in-class engineers with the expertise and passion for solving challenging unique problems. You will use your knowledge and creativity to design and build innovative new systems from the ground up. You will be writing code, completing programming projects, and performing testing and debugging of Oracle software. You will have the opportunity to work on cutting-edge technologies to tackle real-world problems in a collaborative, agile environment. 
 
-Pay Range
+ 
 
-The typical pay range for this role is:
+What You’ll Bring (Objective Minimum Qualifications): 
+
+To be considered for a Software Engineer position in Global Industry Units you must possess the Objective Minimum Qualifications (OMQs) below. Please ensure that your application clearly indicates that you meet these OMQs, either on your resume and/or by uploading additional documents such as a transcript. 
+
+Visa sponsorship is not available for this role. For clarity purposes, this means that Oracle is not in a position now, or in the future, to offer US immigration sponsorship. This includes, but is not limited to, support of H-1B, TN, O-1, green card or F-1 training plans/evaluations.  
+
+Reside in the United States and/or attend a university in the US. 
+Currently enrolled in a Bachelor’s degree program in Computer Science (or an equivalent science/engineering field or AND be returning to the program after completion of the internship.
+Proficient (i.e., able to complete coding projects with no assistance) in at least two of the following programming languages:  
+Java
+
+Python
+
+C#
+
+SQL
+
+JavaScript
+
+CSS
+
+HTML 
+
+Have completed coursework, projects, internships, and or research in at least three of the following:  
+Artificial Intelligence 
+
+Algorithms
+
+Big Data 
+
+Data Structures 
+
+Database 
+
+Machine Learning 
+
+Object-Oriented Programming 
+
+Software Programming 
+
+Web/Mobile Development 
+
+Micro-Services Architecture 
+
+Container Architecture (e.g. Docker, Kubernetes) 
+
+User Interface Design 
+
+Completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience working with the relevant technical areas noted above. 
+ 
+ 
+
+Preferred Qualifications:  
+
+Minimum 3.0 GPA 
+
+Qualifications
+Disclaimer:
+
+Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.
+
+Range and benefit information provided in this posting are specific to the stated locations only
+
+US: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum. 
+
+Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.
+Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.
+
+Oracle US offers a comprehensive benefits package which includes the following:
+1. Medical, dental, and vision insurance, including expert medical opinion
+2. Short term disability and long term disability
+3. Life insurance and AD&D
+4. Supplemental life insurance (Employee/Spouse/Child)
+5. Health care and dependent care Flexible Spending Accounts
+6. Pre-tax commuter and parking benefits
+7. 401(k) Savings and Investment Plan with company match
+8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.
+9. 11 paid holidays
+10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.
+11. Paid parental leave
+12. Adoption assistance
+13. Employee Stock Purchase Plan
+14. Financial planning and group legal
+15. Voluntary benefits including auto, homeowner and pet insurance
+
+The role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.
+
+Career Level - IC0
 
 
  
 
-$0.00 - $0.00
+About Us
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity. 
 
- 
+We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
 
-Whether in our pharmacies or through our health service offerings, we are pioneering a bold new approach to total health care. As health care innovators, we are making quality care affordable, accessible, simple and seamless. We await your fresh ideas, new perspectives, and the unique contributions you will make to our organization.
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
 
-This job does not have an application deadline, as CVS Health accepts applications on an ongoing basis.
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. 
