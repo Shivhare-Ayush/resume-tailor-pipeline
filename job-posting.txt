@@ -1,176 +1,60 @@
-Undergrad Software Engineer Intern - Global Industries
-United States
-Trending
-Job Identification
-306144
-Job Category
-All Roles
-Posting Date
-11/24/2025, 01:23 PM
-Role
-Individual Contributor
-Job Type
-Regular Employee
-Does this position require a security clearance?
-No
-Years
-0 to 2+ years
-Additional Info
-N/A
-Applicants are required to read, write, and speak the following languages
-English
-Job Description
-Must be enrolled in a university prior to and post internship.
-
-Target Internship Duration: May-Aug 2026 or June-Sept 2026
-
-Location: Varies per team alignment 
-
- 
-
- 
-
-The Program:  
-
-Our future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring students with a diverse set of skills and experiences to work in and across teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact. 
-
-The Organization:  
-
-Global Industry Unit (GIU) is a dedicated development organization with deep domain expertise, specializing in building and operating industry specific cloud applications. Our organization with over 23,000 employees works on solving the most complex business problems across a wide range of industries, globally.  
-
-Focused R&D investment of $700+ million annually in industry applications  
-
-16M users served across nearly 200,000 cloud customers in over 120 countries 
-
-Leverage Oracle Cloud technology, operations, and global scale 
-
-The Global Business Unit is comprised of numerous industries, including: 
-
-Communication: Providing networks for service providers and enterprises 
-
-Construction & Engineering: Supporting owners & delivery teams that plan, build, and operate critical assets. 
-
-Energy & Water: Providing mission critical support for electric, gas, and water utilities worldwide 
-
-Financial Services: Powering complex core banking, regulatory compliance, and analytics operations 
-
-Hospitality: Redefining guest experience in hospitality establishments around the world 
-
-Life Sciences: Making apps to save and improve lives, and enable inventions at the speed of science. 
-
-Local Government: Empowering agencies to innovate and connect better with citizens. 
-
-Restaurants: Powering successful restaurants around the globe 
-
-Retail: Empowering commerce for 5,750 retailers in 96 countries 
-
-  
-
-What You’ll Do: 
-
-We are seeking best-in-class engineers with the expertise and passion for solving challenging unique problems. You will use your knowledge and creativity to design and build innovative new systems from the ground up. You will be writing code, completing programming projects, and performing testing and debugging of Oracle software. You will have the opportunity to work on cutting-edge technologies to tackle real-world problems in a collaborative, agile environment. 
-
- 
-
-What You’ll Bring (Objective Minimum Qualifications): 
-
-To be considered for a Software Engineer position in Global Industry Units you must possess the Objective Minimum Qualifications (OMQs) below. Please ensure that your application clearly indicates that you meet these OMQs, either on your resume and/or by uploading additional documents such as a transcript. 
-
-Visa sponsorship is not available for this role. For clarity purposes, this means that Oracle is not in a position now, or in the future, to offer US immigration sponsorship. This includes, but is not limited to, support of H-1B, TN, O-1, green card or F-1 training plans/evaluations.  
-
-Reside in the United States and/or attend a university in the US. 
-Currently enrolled in a Bachelor’s degree program in Computer Science (or an equivalent science/engineering field or AND be returning to the program after completion of the internship.
-Proficient (i.e., able to complete coding projects with no assistance) in at least two of the following programming languages:  
-Java
-
-Python
-
-C#
-
-SQL
-
-JavaScript
-
-CSS
-
-HTML 
-
-Have completed coursework, projects, internships, and or research in at least three of the following:  
-Artificial Intelligence 
-
-Algorithms
-
-Big Data 
-
-Data Structures 
-
-Database 
-
-Machine Learning 
-
-Object-Oriented Programming 
-
-Software Programming 
-
-Web/Mobile Development 
-
-Micro-Services Architecture 
-
-Container Architecture (e.g. Docker, Kubernetes) 
-
-User Interface Design 
-
-Completed at least one internship, research assistantship, teaching assistantship, or equivalent practical experience working with the relevant technical areas noted above. 
- 
- 
-
-Preferred Qualifications:  
-
-Minimum 3.0 GPA 
-
-Qualifications
-Disclaimer:
-
-Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.
-
-Range and benefit information provided in this posting are specific to the stated locations only
-
-US: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum. 
-
-Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.
-Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.
-
-Oracle US offers a comprehensive benefits package which includes the following:
-1. Medical, dental, and vision insurance, including expert medical opinion
-2. Short term disability and long term disability
-3. Life insurance and AD&D
-4. Supplemental life insurance (Employee/Spouse/Child)
-5. Health care and dependent care Flexible Spending Accounts
-6. Pre-tax commuter and parking benefits
-7. 401(k) Savings and Investment Plan with company match
-8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.
-9. 11 paid holidays
-10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.
-11. Paid parental leave
-12. Adoption assistance
-13. Employee Stock Purchase Plan
-14. Financial planning and group legal
-15. Voluntary benefits including auto, homeowner and pet insurance
-
-The role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.
-
-Career Level - IC0
-
-
- 
-
-About Us
-As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity. 
-
-We know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.
-
-Oracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
-
-We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.
-
-Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law. 
+Internship, Fullstack Engineer, AI Tooling (Summer 2026)
+Job Category	Tesla AI
+Location	Palo Alto, California
+Req. ID	257597
+Job Type	Intern/Apprentice
+What to Expect
+Consider before submitting an application: 
+This position is expected to start May 2026 and continue through summer term (ending approximately August 2026 or later, if available). We ask for a minimum of 12 weeks, full-time (40 hours/week) and on-site, for most internships. Our internship program is for students who are actively enrolled in an academic program. Recent graduates seeking employment after graduation and not returning to school should apply for full-time positions, not internships.
+
+International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week on-site. Many students will be limited to part-time during the academic year. 
+
+About the Team:
+
+As an intern on the AI Tooling team, you bring top-notch software engineering skills and can contribute to our tooling systems immediately. Knowledge of machine learning, computer vision, or neural networks is a plus but not required. That can be learned on the job as you work with our machine learning experts. A strong candidate for the AI Tooling team will either be an excellent software generalist, or someone who is exceptionally strong in either backend or frontend engineering. Your application will be consdiered for two different teams, Optimus and Autopilot. 
+
+Optimus AI Team: The AI Tooling team is a central part of Autopilot AI. The systems you build will have a large impact on the entire lifecycle of model development. This includes data processing, data discovery, annotation, and visualization. This also includes tools that help us automate the entire workflows of training, validation, and productionization of our Autopilot neural networks and the Tesla Bot.  
+
+Autopilot AI Team: As a member of the Autopilot AI Tooling team you will design and implement a diverse set of tools that power our machine learning workflows and Humanoid Robot. You will work closely with some of the best, world-class AI researchers and machine learning experts towards Tesla’s goal of a self-driving future.  
+
+What You’ll Do
+Improve and maintain the frontends and backends of our AI web tools 
+Work with controls, planning, and machine learning engineers to build tooling tailored to their workflows 
+Debug issues with our live system, identify the root causes, and fix them 
+Build metrics and monitor performance + reliability of our systems 
+What You’ll Bring
+Pursuing a degree in Computer Science, Computer Engineering, or relevant field of study with a graduation date between August 2026 - April 2027 
+Must be able to relocate and work on site in Palo Alto, CA 
+Strong knowledge of Python and Typescript 
+Experience building modern web applications using React (Three.js nice to have) 
+Experience with k8s is preferred
+Excellent interpersonal, communication, and collaboration skills 
+Compensation and Benefits
+Benefits
+As a full-time Tesla Intern, you will be eligible for:
+
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+401(k), Employee Stock Purchase Plans, and other financial benefits
+Company Paid Basic Life, AD&D, and short-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Commuter benefits
+Employee discounts and perks program
+
+Expected Compensation
+$100000.00 - $150000.00 + benefits
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+Tesla is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to any factor, including veteran status and disability status, protected by applicable federal, state or local laws.
+
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.
+
+For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here). Please contact ADA@tesla.com for ADA related questions or to request ADA accommodations.
+
+Privacy is a top priority for Tesla. We build it into our products and view it as an essential part of our business. To understand more about the data we collect and process as part of your application, please view our Tesla Talent Privacy Notice .
