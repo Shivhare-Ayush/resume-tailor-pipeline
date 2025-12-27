@@ -2,6 +2,8 @@
 
 automatically tailor your latex resume for specific job postings using ai. track versions and get pdfs through github releases.
 
+Need to check how releases work? see [here](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).
+
 ## how to use
 
 ### step 1: fork repo
